@@ -1,4 +1,3 @@
-\
 # Social Behavior Dynamics Simulation
 
 This repository contains a Python-based Agent-Based Model (ABM) for simulating and analyzing social behavior dynamics in a population of agents. 
